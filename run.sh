@@ -1,0 +1,2 @@
+python openstack_deeplog train
+python openstack_deeplog predict
